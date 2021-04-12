@@ -1,0 +1,22 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "wabpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aewhite90/restaurant-page.git"
+  },
+  "keywords": [],
+  "author": "aewhite90",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
